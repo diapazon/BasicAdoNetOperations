@@ -1,0 +1,11 @@
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\bin\Debug\Data\ManagmentData.mdf
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\bin\Debug\Data\ManagmentData_log.ldf
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\bin\Debug\AdonetHomeWork.exe.config
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\bin\Debug\AdonetHomeWork.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\bin\Debug\AdonetHomeWork.pdb
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\obj\Debug\AdonetHomeWork.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\obj\Debug\AdonetHomeWork.Form1.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\obj\Debug\AdonetHomeWork.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\obj\Debug\AdonetHomeWork.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\obj\Debug\AdonetHomeWork.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\AdonetHomeWork\AdonetHomeWork\obj\Debug\AdonetHomeWork.pdb
